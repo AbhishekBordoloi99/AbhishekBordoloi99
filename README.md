@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhishek Bordoloi</h1>
 <h3 align="center">Graduate Student at Indian Institute of Science</h3>
 
-- 🔭 I’m currently working on **Tropical Convection**,**ENSO-Monsoon Teleconnection**
+- 🔭 I’m currently working on **Tropical Convection**
+
+- 💬 Ask me about **Tropical Convection, ENSO Monsoon Teleconnections, Indian Summer Monsoon Variability, West African Summer Monsoon**
 
 - 📫 How to reach me **bordoloia@iisc.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://x.com/abhi_bordoloi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/abhi_bordoloi99" height="30" width="40" /></a>
+<a href="https://fb.com/abhishek bordoloi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek bordoloi" height="30" width="40" /></a>
+<a href="https://instagram.com/abhishek_bordoloi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek_bordoloi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
