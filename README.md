@@ -9,9 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/abhi_bordoloi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/abhi_bordoloi99" height="30" width="40" /></a>
-<a href="https://fb.com/abhishek bordoloi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek bordoloi" height="30" width="40" /></a>
-<a href="https://instagram.com/abhishek_bordoloi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek_bordoloi" height="30" width="40" /></a>
+<a href="https://twitter.com/x.com/abhi_bordoloi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x.com/abhi_bordoloi99" height="30" width="40" /></a>
+<a href="https://instagram.com/www.instagram.com/abhishek__bordoloi?utm_source=qr&igsh=mwhzm3hryw0wmxznna==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/abhishek__bordoloi?utm_source=qr&igsh=mwhzm3hryw0wmxznna==" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
