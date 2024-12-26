@@ -18,8 +18,8 @@
 
 <h3 align="left">ITCZ Propagation</h3>
 
-![itcz_np](https://github.com/user-attachments/assets/c1f4f580-d46f-40ab-a9a4-099c4f65d613)
 
+![itcz_np](https://github.com/user-attachments/assets/ee807341-cd73-4b87-b4fb-986b4111543e)
 
 
 
