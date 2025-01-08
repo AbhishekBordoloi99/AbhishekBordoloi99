@@ -23,8 +23,17 @@
  ![itcz_np](https://github.com/user-attachments/assets/ee807341-cd73-4b87-b4fb-986b4111543e)
 
 **2. Indian Summer Monsoons**
-   
- ![ISMR](https://github.com/user-attachments/assets/9bd538b1-5239-449f-8323-bcb3a251e3aa)
+
+![ismr](https://github.com/user-attachments/assets/f6a177e9-03b7-43d7-94bc-bf1ef2a7f916)
+
+
+**3. West African Summer Monsoons**
+
+![wasm](https://github.com/user-attachments/assets/90e96b87-b662-402a-acc1-7fd77b7a5e24)
+
+
+
+
 
 
 
