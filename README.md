@@ -29,7 +29,8 @@
 
 **3. West African Summer Monsoons**
 
-![wasm](https://github.com/user-attachments/assets/90e96b87-b662-402a-acc1-7fd77b7a5e24)
+![wasm](https://github.com/user-attachments/assets/37d00555-fa48-4b09-83b3-23765e5af319)
+
 
 
 
